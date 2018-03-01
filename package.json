@@ -1,0 +1,14 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "Project made with Udemy course on Blockchain and Solidity development. It is first project tackling creation of boilerplate for creating, deploying and testing ethereum contracts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "solc": "^0.4.20"
+  }
+}
